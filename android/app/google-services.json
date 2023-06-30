@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156005584656",
+    "project_id": "metaops-f6388",
+    "storage_bucket": "metaops-f6388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156005584656:android:e31fa27b7645dcbf371f95",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156005584656-2omk80ci8h2m5r91cf3hjbo2i4lbh7l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaImYJynsjfHqe_JPmHVvA1CBNSlNxNf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156005584656-2omk80ci8h2m5r91cf3hjbo2i4lbh7l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
